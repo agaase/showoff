@@ -17,9 +17,9 @@ Ever wondered if you can have a website of your own where you can just add your 
 ###Configuring Data.
 Data is maintained in json format in data.json and follows a tree structure. You can think of all projects grouped under a category. For e.g all your photography projects can be grouped under photography. The below explanation explains the details of data.json.
 
->>>>NOTE - Below json is commented and hence invalid. (See raw valid json [here](http://agaase.github.io/webpages/showoff/data/data_explain.json) and json with full data [here](http://agaase.github.io/webpages/showoff/data/data.json))   
+> NOTE - Below json is commented and hence invalid. (See raw valid json [here](http://agaase.github.io/webpages/showoff/data/data_explain.json) and json with full data [here](http://agaase.github.io/webpages/showoff/data/data.json))   
 
-````json
+```
 {
 	"config" : {
 	    //This section controls the config for the website.
@@ -92,4 +92,4 @@ Data is maintained in json format in data.json and follows a tree structure. You
 		}
 	]
 }
-````
+```
