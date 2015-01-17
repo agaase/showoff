@@ -9,10 +9,11 @@ Ever wondered if you can have a website of your own where you can just add your 
 
 
 ### How to use
-1. Clone the git repo or download the zip from the github page to your localhost root directory. (You can give the folder any new name)
+1. Clone the git [repo](https://github.com/agaase/showoff.git) or download the zip ([here](https://github.com/agaase/showoff/archive/master.zip)) from the github page to your localhost root directory. 
 2. Copy demo folder and give it a new name; lets say myportfolio.
 3. In the data.json add the data for your site. (Look at section "Configuring data" below to see how to add data)
-4. To change the look and feel you can edit colors and font families in style/branding.css. All elements are commented so that you know what works where.
+4. (Optional) To change the look and feel you can edit colors and font families in style/branding.css. All elements are commented so that you know what works where.
+5. Launch your new site at http://localhost/showoff/myportfolio
 
 ###Configuring Data.
 Data is maintained in json format in data.json and follows a tree structure. You can think of all projects grouped under a category. For e.g all your photography projects can be grouped under photography. The below explanation explains the details of data.json.
