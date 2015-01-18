@@ -4,7 +4,7 @@ Ever wondered if you can have a website of your own where you can just add your 
 
 ### Major Features
 1. Add projects and its data using a simple file structure.
-2. Two out of the box templates for listing your projects - Card & Stack. (Check out on [demo]((http://agaase.github.io/webpages/showoff)) page)
+2. Two out of the box templates for listing your projects - Card & Stack. (Check out on [demo](http://agaase.github.io/webpages/showoff) page)
 2. Look & feel as per your requirements using plain old css.
 3. Ability to add commenting system using disqus and that too with just some configuration.
 
