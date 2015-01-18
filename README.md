@@ -100,7 +100,7 @@ Data is maintained in json format in data.json and follows a tree structure. You
  demos 
    - index.html
    - data
-     - data.json // data for the demo page.
+     - data.json (data for the demo page)
      
  dist
    - showoff.min.js (distribution minified file for showoff)
