@@ -95,3 +95,19 @@ Data is maintained in json format in data.json and follows a tree structure. You
 	]
 }
 ```
+###Project structure
+```
+ demos 
+   - index.html
+   - data
+     - data.json // data for the demo page.
+     
+ dist
+   - showoff.min.js (distribution minified file for showoff)
+   
+ src
+   - showoff.js (source file for showoff)
+   
+ style
+   - layout.css (all the layout styling)
+   - branding.css (all the branding styling - font size, family, color etc)
